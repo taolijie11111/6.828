@@ -4,3 +4,5 @@
 
 之后却发现无法上传到github上去？？
 只能后面整理了再传上去了。
+
+record some notes while finishing the lab
